@@ -1,2 +1,2 @@
-# bach-info-junit
-Sources of `run.bach.info.junit` package
+# duke-info-junit
+Sources of `run.duke.info.junit` package
